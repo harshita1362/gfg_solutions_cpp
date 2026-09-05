@@ -1,34 +1,10 @@
-# Programming GFG solutions
+# 📚 Programming GFG solutions
 
 A curated collection of **Data Structures and Algorithms** problems solved in **C++**, organized topic-wise for systematic practice and interview preparation.
 
-## Topics
+## Topics Covered
 
-- Mathematics
-- Recursion
-- Bit Magic
-- Arrays
-- Matrix
-- Strings
-- Searching
-- Sorting
-- Hashing
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Linked List
-- Stack
-- Queue
-- Deque
-- Tree
-- Binary Search Tree
-- Heap
-- Graph
-- Greedy
-- Backtracking
-- Dynamic Programming
-- Trie
-- Segment Tree
+Mathematics · Recursion · Bit Magic · Arrays · Matrix · Strings · Searching · Sorting · Hashing · Two Pointers · Sliding Window · Prefix Sum · Linked List · Stack · Queue · Deque · Tree · Binary Search Tree · Heap · Graph · Greedy · Backtracking · Dynamic Programming · Trie · Segment Tree
 
 ## Approach
 
